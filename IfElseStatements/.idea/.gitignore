@@ -1,0 +1,6 @@
+
+# Default ignored files
+/workspace.xml
+
+# Ignore a file with extension
+../*.exe
