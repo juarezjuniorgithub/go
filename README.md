@@ -1,2 +1,2 @@
 # go
-Go code samples, exercises, components, others
+Golang - code samples
